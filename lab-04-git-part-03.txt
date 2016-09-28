@@ -73,7 +73,8 @@ Quit and save when you're done.
 
 What command did you use to do this?
 ----------
-Command: 
+Command: nano hello.sh 
+
 
 
 ==========
